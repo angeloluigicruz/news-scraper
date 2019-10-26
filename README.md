@@ -1,2 +1,2 @@
-# news-scraper
-# All the News That's Fit to Scrape
+# Assignment 14: News Scraper
+# UCSD Coding Bootcamp 2019
